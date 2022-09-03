@@ -4,4 +4,4 @@
 - nodemon server.js
 
 ## Frontend
-El frontend (client) se encuentra en [frontend](https://github.com/OsvaldoHdez/FrontendClient).
+El frontend (client) se encuentra en [frontend](https://github.com/OsvaldoHdez/TradLenguasFront).
